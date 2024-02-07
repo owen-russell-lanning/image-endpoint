@@ -20,5 +20,16 @@ namespace ImageEndpoint.Controllers
             var selected = ImagesManager.Instance.GetDailyImagePath();
             return PhysicalFile(selected, "image/jpeg");
         }
+
+        /// <summary>
+        /// gets a random image from the library
+        /// </summary>
+        /// <returns></returns>
+        [HttpGet]
+        [Route("Random")]
+        public ActionResult GetRandomImage() {
+            var selected = ImagesManager.Instance.GetRandomImagePath();
+            return PhysicalFile(selected, "image/jpeg");
+        }
     }
 }
