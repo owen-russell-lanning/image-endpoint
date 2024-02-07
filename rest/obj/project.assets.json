@@ -442,11 +442,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\russe\\OneDrive\\Documents\\Code\\image-endpoint\\ImageEndpoint.csproj",
+      "projectUniqueName": "C:\\Users\\russe\\OneDrive\\Documents\\Code\\image-endpoint\\rest\\ImageEndpoint.csproj",
       "projectName": "ImageEndpoint",
-      "projectPath": "C:\\Users\\russe\\OneDrive\\Documents\\Code\\image-endpoint\\ImageEndpoint.csproj",
+      "projectPath": "C:\\Users\\russe\\OneDrive\\Documents\\Code\\image-endpoint\\rest\\ImageEndpoint.csproj",
       "packagesPath": "C:\\Users\\russe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\russe\\OneDrive\\Documents\\Code\\image-endpoint\\obj\\",
+      "outputPath": "C:\\Users\\russe\\OneDrive\\Documents\\Code\\image-endpoint\\rest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\russe\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "gW6t5B2NeAGJmp8KF/G8XBGNb7mhXhcBAtzs75qcTF55lIYvnm7imRk4bGgNV1JZtyj0UJpyaprfiHKflrLq7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\russe\\OneDrive\\Documents\\Code\\image-endpoint\\rest\\ImageEndpoint.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\russe\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\russe\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\russe\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\russe\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\russe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\russe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "C:\\Users\\russe\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\6.0.20\\microsoft.netcore.app.runtime.linux-x64.6.0.20.nupkg.sha512",
+    "C:\\Users\\russe\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\6.0.20\\microsoft.aspnetcore.app.runtime.linux-x64.6.0.20.nupkg.sha512",
+    "C:\\Users\\russe\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\6.0.20\\microsoft.netcore.app.host.linux-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

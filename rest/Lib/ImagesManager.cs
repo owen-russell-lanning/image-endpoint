@@ -49,6 +49,7 @@
                     continue;
                 }
 
+                Console.WriteLine("Image Folder Found: " + trimmed);
                 this.imageFolders.Add(trimmed);
             }
 

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\russe\OneDrive\Documents\Code\image-endpoint\rest\bin\Release\net6.0\publish\linux</_PublishTargetUrl>
+    <History>True|2024-02-07T15:59:52.1651982Z;True|2024-02-07T10:57:04.9328329-05:00;True|2024-02-07T10:46:15.5489805-05:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

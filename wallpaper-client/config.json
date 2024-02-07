@@ -1,0 +1,6 @@
+{
+    "host":"https://localhost",
+    "port":7259,
+    "image_endpoint": "Random",
+    "current_wallpaper_path":"current_wallpaper.png"
+}
